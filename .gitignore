@@ -1,1 +1,5 @@
 .conda
+info.txt
+test_item.py
+poe2_api_scraper_test.py
+poe2_session_dump/*
