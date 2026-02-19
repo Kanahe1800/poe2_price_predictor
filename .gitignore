@@ -3,3 +3,5 @@ info.txt
 test_item.py
 poe2_api_scraper_test.py
 poe2_session_dump/*
+convert_json_to_df.py
+MASTER_35434_items.json
