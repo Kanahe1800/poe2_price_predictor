@@ -1,8 +1,6 @@
 .conda
 info.txt
 test_item.py
-poe2_api_scraper_test.py
+DataScraping/*
 poe2_session_dump/*
-convert_json_to_df.py
-MASTER_35434_items.json
-poe2_ml_dataset_full.csv
+Data/*
